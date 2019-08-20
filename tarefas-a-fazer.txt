@@ -1,0 +1,6 @@
+1. Não esquecer de salvar em um arquivo no final do projeto;
+2. Apresentar as diferenças entre países que estão nestas associações versus países
+que não estão;
+3. Encontrar diferenças de evolução de indicadores no tempo entre países que estão
+versus países que estão fora.
+4. Deixar claro os anos utilizados;
