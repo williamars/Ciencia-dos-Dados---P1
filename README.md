@@ -6,6 +6,4 @@ Este repositório refere-se ao projeto 1 da disciplina Ciência dos Dados, da fa
 
 O objetivo do projeto é fazer uma análise com base nos dados do site gapminder.org, referindo-se à alguma organização internacional, criando uma pergunta, hipótese e vizualizando os dados, com o objetivo de se chegar a alguma conclusão.
 
-
-https://repositorio.ufsc.br/bitstream/handle/123456789/167557/Monografia%20da%20Juliana%20Pinheiro.pdf?sequence=1&isAllowed=y
-https://www.pucsp.br/ecopolitica/documentos/direitos/docs/entendendo-o-indice-gini.pdf
+O arquivo oficial é o "P1 Final - William Silva", que é o que deve ser considerado para correção.
