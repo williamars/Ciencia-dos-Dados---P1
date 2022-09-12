@@ -1,11 +1,16 @@
 # Ciencia dos Dados - P1
 
-Aluno: William Augusto Reis da Silva | Turma 2A - Engenharia
+Este repositório refere-se ao projeto 1 da disciplina Ciência dos Dados, da faculdade Insper, cujo objetivo é fazer uma análise com base nos dados do site [gapminder](gapminder.org), referindo-se à alguma organização internacional, criando uma pergunta, hipótese e vizualizando os dados, com o objetivo de se chegar a alguma conclusão.
 
-Este repositório refere-se ao projeto 1 da disciplina Ciência dos Dados, da faculdade Insper, sendo desenvolvido pelo aluno William Augusto Reis da Silva.
+A minha opção escolhida e as análises feitas podem ser vistas neste arquivo: [P1 Final - William Silva.ipynb](https://github.com/williamars/Projeto1/blob/master/src/P1%20Final%20-%20William%20Silva.ipynb) 
 
-O objetivo do projeto é fazer uma análise com base nos dados do site gapminder.org, referindo-se à alguma organização internacional, criando uma pergunta, hipótese e vizualizando os dados, com o objetivo de se chegar a alguma conclusão.
+---
 
-O arquivo oficial é o "P1 Final - William Silva", que é o que deve ser considerado para a visão.
+## Environment with Jupyter Notebook
 
-É importante ressaltar que este trabalho obteve conceito A+ segundo os critérios apresentados pelo professor da disciplina.
+```bash
+python3 -m virtualenv venv 
+source venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
